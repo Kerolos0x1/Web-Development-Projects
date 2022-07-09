@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.text-1 {
+    background-color: gray;
+    width: 400px;
+    padding: 20px;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+.image-1 {
+    width: 440px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ad {
+    padding: 10px;
+    width: max-content;
+    color: black;
+    font-size: xx-large;
+    background-color: white;
+}
+
+.text-2 {
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 20px;
+}
