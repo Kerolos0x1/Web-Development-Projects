@@ -1,0 +1,194 @@
+body {
+    background-color: white;
+}
+
+p {
+    padding: 20px;
+    margin: 15px;
+    background-color: rgb(87, 82, 82);
+    font-size: xxx-large;
+    font-family: Franklin Gothic;
+    color: whitesmoke;
+    text-align: center;
+}
+.home {
+    width: 1200px;
+    height: 550px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* first family */
+.head {
+    padding: 20px;
+    background-color: rgb(87, 82, 82);
+    font-size: xxx-large;
+    font-family: Franklin Gothic;
+    color: whitesmoke;
+    text-align: center;
+}
+.img {
+    padding: 10px;
+    margin: 10px;
+    border: 5px black solid;
+}
+.text {
+    padding: 10px;
+    font-size: x-large;
+    font-family: Franklin Gothic;
+}
+.a-1 {
+    background-color: black;
+    color: wheat;
+}
+.a-11 {
+    background-color: black;
+    color: aqua;
+}
+/* 2 family */
+.head-2 {
+    padding: 20px;
+    background-color: rgb(87, 82, 82);
+    font-size: xxx-large;
+    font-family: Franklin Gothic;
+    color: whitesmoke;
+    text-align: center;
+}
+.img-2 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px black solid;
+}
+.text-2 {
+    padding: 10px;
+    font-size: x-large;
+    font-family: cursive;
+}
+.a-2 {
+    background-color: black;
+    color: wheat;
+}
+.a-22 {
+    background-color: black;
+    color: aqua;
+}
+/* 3 family */
+.head-3 {
+    padding: 20px;
+    background-color: rgb(87, 82, 82);
+    font-size: xxx-large;
+    font-family: Franklin Gothic;
+    color: whitesmoke;
+    text-align: center;
+}
+.img-3 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px black solid;
+}
+.text-3 {
+    padding: 10px;
+    font-size: x-large;
+    font-family: cursive;
+}
+.a-3 {
+    background-color: black;
+    color: wheat;
+}
+.a-33 {
+    background-color: black;
+    color: aqua;
+}
+/* 4 family */
+.head-4 {
+    padding: 20px;
+    background-color: rgb(87, 82, 82);
+    font-size: xxx-large;
+    font-family: Franklin Gothic;
+    color: whitesmoke;
+    text-align: center;
+}
+.img-4 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px black solid;
+}
+.text-4 {
+    padding: 10px;
+    font-size: x-large;
+    font-family: cursive;
+}
+.a-4 {
+    background-color: black;
+    color: wheat;
+}
+.a-44 {
+    background-color: black;
+    color: aqua;
+}
+/* 5 family */
+.head-5 {
+    padding: 20px;
+    background-color: rgb(87, 82, 82);
+    font-size: xxx-large;
+    font-family: Franklin Gothic;
+    color: whitesmoke;
+    text-align: center;
+}
+.img-5 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px black solid;
+}
+.text-5 {
+    padding: 10px;
+    font-size: x-large;
+    font-family: cursive;
+}
+.a-5 {
+    background-color: black;
+    color: wheat;
+}
+.a-55 {
+    background-color: black;
+    color: aqua;
+}
+/*some classes */
+.under {
+    width: 200px;
+    color: white;
+    padding: 5px;
+    font-size: xx-large;
+    font-family: Franklin Gothic;
+}
+.under-2 {
+    color: white;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.imagess-1 {
+    padding: 10px;
+    margin: 5px;
+    width: 65px;
+}
+
+.all {
+    background-color: black;
+    height: 143px;
+}
+
+.imagess-2 {
+    padding: 10px;
+    margin: 5px;
+    width: 65px;
+}
+
+.imagess-3 {
+    padding: 10px;
+    margin: 5px;
+    width: 65px;
+}
+
+
+
